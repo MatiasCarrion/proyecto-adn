@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-adn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
